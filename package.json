@@ -1,5 +1,5 @@
 {
-  "name": "react-icons-healthcare",
+  "name": "@ob1health/react-icons-healthcare",
   "version": "1.0.0",
   "description": "SVG React icons of popular icon packs using ES6 imports - now with HealthIcons",
   "author": "Goran Gajic",
